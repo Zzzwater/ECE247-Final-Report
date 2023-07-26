@@ -1,2 +1,1 @@
-# ECE247-Final-Report
-Comparison of Different Deep Learning Methods for EEG Data Classification
+Finding an effective way to classify the imagined movement of EEG raw data offers a valuable source of information for measuring brain activity. In this project, I evaluate three different deep learning approaches, namely CNN, CNN and LSTM hybrid, and CNN and Transformer hybrid. Based on careful analysis and comparison, I observed that the CNN approach is the best option for classifying the context of imagined movement of EEG data.
